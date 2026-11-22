@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Wajdi 👋
 
-<!--
-**wajdirahali/wajdirahali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**
 
-Here are some ideas to get you started:
+I'm passionate about turning ideas, random thoughts, and creative sparks into **real-world solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love exploring possibilities, experimenting with technologies, and building things — especially the ones that start with a simple *"What if...?"*
+
+---
+
+### 🛠️ What I work with
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | Java · TypeScript · JavaScript · SQL |
+| **Backend** | Spring Boot · Spring Security |
+| **Frontend** | Angular · HTML · CSS |
+| **DevOps** | Docker · GitLab CI/CD |
+
+---
+
+### 💡 What drives me
+
+Creating, experimenting, solving problems, and bringing ideas to life.
+
+I enjoy the entire process of building something from scratch and finding creative ways to make it happen.
+
+### Always curious. Always building. Always creating.
